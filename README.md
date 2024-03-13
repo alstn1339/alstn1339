@@ -17,15 +17,13 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Keval&color=00ff7b)
 
+### Hi there 👋
+
+🌱 I’m currently learning ...
 <div>
  <a href="https://kevalsil.com/" target="_blank"><img src="https://img.shields.io/badge/Homepage-000000?style=flat&logo=googlehome&logoColor=ffffff"/></a>
  <a><img src="https://img.shields.io/badge/alstn1339@gmail.com-F34538?style=flat&logo=gmail&logoColor=ffffff"/></a>
 </div>
-
------
-### Hi there 👋
-
-🌱 I’m currently learning ...
 
 -----
 ####  :clipboard: Once I've Used
