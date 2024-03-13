@@ -1,4 +1,4 @@
-### Hi there 👋
+<div align="center">
 
 <!--
 **alstn1339/alstn1339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=waving&text=Keval)
+
+### Hi there 👋
+ 🌱 I’m currently learning ...
+ 
+ <br>
+
+ ####  :clipboard: My Page
+ 
 <a href="https://kevalsil.com/" target="_blank"><img src="https://img.shields.io/badge/Homepage-000000?style=flat&logo=googlehome&logoColor=ffffff"/></a>
 
+<br>
+
+####  :clipboard: Once I've Used
+
+![Keval's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alstn1339&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+
+<br>
+
+#### :pencil2: Study log
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstn1339&show_icons=true&theme=radical)
+
+</div>
