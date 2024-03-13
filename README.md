@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://kevalsil.com/" target="_blank"><img src="https://img.shields.io/badge/Homepage-000000?style=flat&logo=googlehome&logoColor=ffffff"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstn1339&show_icons=true&theme=radical)
