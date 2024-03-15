@@ -40,11 +40,11 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 </div>
 
-![Keval's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alstn1339&show_icons=true&hide_border=true&title_color=00ff7b&icon_color=004386&layout=compact&theme=dark)
+![Keval's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kevalsil&show_icons=true&hide_border=true&title_color=00ff7b&icon_color=004386&layout=compact&theme=dark)
 
 -----
 #### :pencil2: Study log
 
-![Keval's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstn1339&show_icons=true&title_color=00ff7b&theme=radical)
+![Keval's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevalsil&show_icons=true&title_color=00ff7b&theme=radical)
 
 </div>
