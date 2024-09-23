@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=kevalsil&color=00ff7b)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Remin&color=00ff7b)
 
 ### Hi there 👋
 
@@ -40,11 +40,11 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 </div>
 
-![Kevalsil's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kevalsil&show_icons=true&hide_border=true&title_color=00ff7b&icon_color=004386&layout=compact&theme=dark)
+![Remin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=koremin&show_icons=true&hide_border=true&title_color=00ff7b&icon_color=004386&layout=compact&theme=dark)
 
 -----
 #### :pencil2: Study log
 
-![Kevalsil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevalsil&show_icons=true&title_color=00ff7b&theme=radical)
+![Remin's GitHub stats](https://github-readme-stats.vercel.app/api?username=koremin&show_icons=true&title_color=00ff7b&theme=radical)
 
 </div>
