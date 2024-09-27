@@ -1,7 +1,7 @@
 <div align="center">
  
 <!--
-**alstn1339/alstn1339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cherossin/cherossin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning ...
 <div>
  <a href="https://kevalsil.com/" target="_blank"><img src="https://img.shields.io/badge/My Homepage-000000?style=flat&logo=googlehome&logoColor=ffffff"/></a>
- <a><img src="https://img.shields.io/badge/alstn1339@gmail.com-F34538?style=flat&logo=gmail&logoColor=ffffff"/></a>
+ <a><img src="https://img.shields.io/badge/cherossin@gmail.com-F34538?style=flat&logo=gmail&logoColor=ffffff"/></a>
 </div>
 
 -----
@@ -40,11 +40,11 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 </div>
 
-![Remin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=koremin&show_icons=true&hide_border=true&title_color=00ff7b&icon_color=004386&layout=compact&theme=dark)
+![Cherossin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cherossin&show_icons=true&hide_border=true&title_color=00ff7b&icon_color=004386&layout=compact&theme=dark)
 
 -----
 #### :pencil2: Study log
 
-![Remin's GitHub stats](https://github-readme-stats.vercel.app/api?username=koremin&show_icons=true&title_color=00ff7b&theme=radical)
+![Cherossin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherossin&show_icons=true&title_color=00ff7b&theme=radical)
 
 </div>
