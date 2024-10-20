@@ -1,7 +1,7 @@
 <div align="center">
  
 <!--
-**cherossin/cherossin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mintsclover/Mints** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=cherossin&color=00ff7b)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Mints&color=00ff7b)
 
 ### Hi there 👋
 
 🌱 I’m currently learning ...
 <div>
- <a href="https://kevalsil.com/" target="_blank"><img src="https://img.shields.io/badge/My Homepage-000000?style=flat&logo=googlehome&logoColor=ffffff"/></a>
- <a><img src="https://img.shields.io/badge/cherossin@gmail.com-F34538?style=flat&logo=gmail&logoColor=ffffff"/></a>
+ <a href="https://mintsclover.com/" target="_blank"><img src="https://img.shields.io/badge/My Homepage-000000?style=flat&logo=googlehome&logoColor=ffffff"/></a>
+ <a><img src="https://img.shields.io/badge/koreaminsoo@khu.ac.kr-F34538?style=flat&logo=gmail&logoColor=ffffff"/></a>
 </div>
 
 -----
@@ -40,11 +40,11 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 </div>
 
-![Cherossin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cherossin&show_icons=true&hide_border=true&title_color=00ff7b&icon_color=004386&layout=compact&theme=dark)
+![Mints's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mintsclover&show_icons=true&hide_border=true&title_color=00ff7b&icon_color=004386&layout=compact&theme=dark)
 
 -----
 #### :pencil2: Study log
 
-![Cherossin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherossin&show_icons=true&title_color=00ff7b&theme=radical)
+![Mints's GitHub stats](https://github-readme-stats.vercel.app/api?username=mintsclover&show_icons=true&title_color=00ff7b&theme=radical)
 
 </div>
